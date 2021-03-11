@@ -4,11 +4,11 @@
 
 ## This is a coding quiz game, its function is to quiz the user and track their highscore.
 
-### The website can be viewed [here](https://pdsan97.github.io/Coding-Quiz)
+### The website can be viewed [here](https://pdsan97.github.io/Quiz-Coding)
 
-### Url - [https://github.com/pdsan97/Coding-Quiz](https://github.com/pdsan97/Coding-Quiz)
+### Url - [https://pdsan97.github.io/Quiz-Coding/)
 
 
 ```
-git https://pdsan97.github.io/Coding-Quiz
+git https://pdsan97.github.io/Quiz-Coding
 ```
